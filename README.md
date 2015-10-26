@@ -15,4 +15,11 @@ Universal iOS application written in swift 2.1, supporting iOS8+ devices
 * Every image load is performed on main thread
 * Its storyboard + autolayout based -> fully responsive
 
+### TODO
+
+* use COCOAPODS
+* replace json parsing with AFNetworking library
+* replace image loading with SDWebImage to support caching
+
+
 **Free Software, Hell Yeah!**
