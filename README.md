@@ -1,2 +1,18 @@
 # SwiftReedAssignment
-Simple demonstration of async image loading, json parsing for iOS8+ in swift
+
+Universal iOS application written in swift 2.1, supporting iOS8+ devices
+
+### Screens
+* Master
+* Detail
+
+### How it works
+
+* Using splitVC to maintain master-detail view for iphones/ipads
+* Loading JSON and parsing into swift Array of custom object
+* Every object can load image data using NSURLSession
+* And store UIImage inside for further use
+* Every image load is performed on main thread
+* Its storyboard + autolayout based -> fully responsive
+
+**Free Software, Hell Yeah!**
